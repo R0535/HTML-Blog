@@ -44,3 +44,10 @@ body{
     color: rgb(73, 73, 73);
     text-shadow:1px 1px 2px darkcyan;
 }
+#imagen{
+    position: relative;
+    left: 33%;
+}
+img{
+    width: 30%;
+}
